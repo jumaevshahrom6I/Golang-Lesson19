@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Inception",
+    "year": 2010,
+    "rating": 8.8,
+    "note": "mind-bending"
+  },
+  {
+    "title": "Interstellar",
+    "year": 2014,
+    "rating": 8.7,
+    "note": "space"
+  },
+  {
+    "title": "The Matrix",
+    "year": 1999,
+    "rating": 8.7
+  },
+  {
+    "title": "Gladiator",
+    "year": 2000,
+    "rating": 8.5,
+    "note": "epic"
+  },
+  {
+    "title": "Joker",
+    "year": 2019,
+    "rating": 8.4
+  }
+]

@@ -1,0 +1,30 @@
+[
+   {
+      "brand": "iPhone",
+      "year": 2023,
+      "price": 999,
+      "color": "black"
+   },
+   {
+      "brand": "Samsung",
+      "year": 2022,
+      "price": 799,
+      "color": "blue"
+   },
+   {
+      "brand": "Xiaomi",
+      "year": 2021,
+      "price": 399
+   },
+   {
+      "brand": "Google Pixel",
+      "year": 2024,
+      "price": 899,
+      "color": "white"
+   },
+   {
+      "brand": "Nokia",
+      "year": 2020,
+      "price": 199
+   }
+]

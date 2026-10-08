@@ -1,0 +1,29 @@
+[
+  {
+    "title": "C#",
+    "author": "Shahrom",
+    "year": 2026,
+    "price": 777,
+    "note": "best"
+  },
+  {
+    "title": "Golang",
+    "author": "Akbar",
+    "year": 2025,
+    "price": 555,
+    "note": "good"
+  },
+  {
+    "title": "HTML",
+    "author": "Abdullo",
+    "year": 2024,
+    "price": 888
+  },
+  {
+    "title": "C++",
+    "author": "Abdurahmon",
+    "year": 2027,
+    "price": 999,
+    "note": "hard"
+  }
+]
